@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sayye/OneDrive/Desktop/Project%206/rossmann-store-sales/mlruns/0/1fd9a72712274b5883a59767da7bf286/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1fd9a72712274b5883a59767da7bf286
+run_name: nosy-fox-33
+run_uuid: 1fd9a72712274b5883a59767da7bf286
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739797125037
+status: 1
+tags: []
+user_id: surabhi
